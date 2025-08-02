@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5255b3c-d517-44b9-92ad-783cf1cec81d" name="Changes" comment="Addimg images" />
+    <list default="true" id="a5255b3c-d517-44b9-92ad-783cf1cec81d" name="Changes" comment="Addimg images">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ConditionalExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ConditionalExercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LoopExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/LoopExercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ConditionalExercisesTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ConditionalExercisesTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LoopExercisesTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LoopExercisesTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kahqgc&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kahqgc/software-dev-course-java-basics-3.git&quot;,
+    &quot;accountId&quot;: &quot;2c551568-fc3f-4c35-a6e9-4263fd048f29&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -34,19 +54,27 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
     "JUnit.ConditionalExercisesTests.executor": "Run",
+    "JUnit.ConditionalExercisesTests.testLessThanFive.executor": "Run",
+    "JUnit.LoopExercisesTests.testSum.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/mikel/projects/java-new-curriculum/software-dev-course-classes-and-objects-2/pom.xml",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "last_directory_selection": "C:/Users/Kayla/Desktop/launchcode/UNIT 2/Java Basics/software-dev-course-java-basics-3/src/main/java/org/example",
+    "last_opened_file_path": "C:/Users/Kayla/Desktop/launchcode/UNIT 2/Java Basics/software-dev-course-java-basics-3",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.4586207"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.LoopExercisesTests.testSum">
     <configuration name="ConditionalExercisesTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="software-dev-course-java-basics-3" />
       <option name="PACKAGE_NAME" value="" />
@@ -56,8 +84,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LoopExercisesTests.testSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="software-dev-course-java-basics-3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoopExercisesTests" />
+      <option name="METHOD_NAME" value="testSum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LoopExercisesTests.testSum" />
         <item itemvalue="JUnit.ConditionalExercisesTests" />
       </list>
     </recent_temporary>

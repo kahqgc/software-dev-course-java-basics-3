@@ -1,5 +1,7 @@
+
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
 import org.example.LoopExercises;
-import org.junit.Test;
 
 public class LoopExercisesTests {
     @Test
